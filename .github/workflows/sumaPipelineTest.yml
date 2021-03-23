@@ -1,10 +1,4 @@
-name: integracion continua con node.js
-
-on:
-  pull_request:
-name: integracion continua con node.js
-
-name: integracion continua con node.js
+name: Suma-integracion continua con node.js
 
 on:
   pull_request:
